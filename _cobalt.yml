@@ -1,0 +1,7 @@
+
+site:
+  title: Knight of the Old Code
+  description: I'm Just a Redneck with a Keyboard
+  base_url: https://knightoftheoldcode.com
+posts:
+  rss: rss.xml
